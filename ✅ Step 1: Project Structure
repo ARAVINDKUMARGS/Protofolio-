@@ -1,0 +1,8 @@
+my-portfolio/
+├── index.html
+├── style.css
+├── script.js (optional)
+├── assets/
+│   ├── resume.pdf
+│   ├── profile.jpg
+│   └── project1.png (optional)
