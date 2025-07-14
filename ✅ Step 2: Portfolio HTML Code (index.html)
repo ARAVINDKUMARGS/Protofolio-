@@ -1,0 +1,75 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aravind Kumar | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Aravind Kumar</h1>
+    <p>BE CSE Student | Internships | Projects | Quiz Winner</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am a 2nd-year Computer Science student from Meenakshi College of Engineering. I'm passionate about software development, data analytics, and winning coding competitions.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Python, Java, C</li>
+      <li>HTML, CSS, JavaScript</li>
+      <li>SQL, Data Analysis, Pandas, NumPy</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Ambulance Booking App (Aushway)</h3>
+      <p>Developed a full-stack health tech platform with ambulance booking, medicine delivery, and AI chatbot.</p>
+    </div>
+    <div class="project">
+      <h3>To-Do List App</h3>
+      <p>Python GUI app for task management using Tkinter.</p>
+    </div>
+  </section>
+
+  <section id="internships">
+    <h2>Internships</h2>
+    <ul>
+      <li>Upskill Campus – Digital Marketing & Java Programming</li>
+      <li>CodeAlpha – Python Projects (Hangman, Email Extractor)</li>
+      <li>Oasis Infobyte – Web Development & Data Science</li>
+    </ul>
+  </section>
+
+  <section id="certifications">
+    <h2>Certifications</h2>
+    <ul>
+      <li>Data Analytics – AICTE</li>
+      <li>Cyber Security Essentials – Cisco</li>
+      <li>Programming Essentials in Python – Infosys Springboard</li>
+    </ul>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <a href="assets/resume.pdf" target="_blank">Download Resume</a>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: aravind.cse@gmail.com</p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/aravind">linkedin.com/in/aravind</a></p>
+    <p>GitHub: <a href="https://github.com/aravind">github.com/aravind</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Aravind Kumar | All rights reserved.</p>
+  </footer>
+</body>
+</html>
